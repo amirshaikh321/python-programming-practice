@@ -9,3 +9,13 @@
 - Input/Output: Using print() and input().
 
 - Strings: Slicing, indexing, and common methods (upper, lower, replace).
+
+## 2. Control Flow & Logic
+
+- Conditional Statements: `if`, `elif`, and `else`.
+
+- Loops: `for` loops (iterating over ranges/sequences) and `while` loops.
+
+- Loop Control:` break`, `continue`, and `pass`.
+
+- List Comprehensions: A Pythonic way to create lists.

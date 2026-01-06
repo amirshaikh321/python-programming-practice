@@ -19,3 +19,21 @@
 - Loop Control:` break`, `continue`, and `pass`.
 
 - List Comprehensions: A Pythonic way to create lists.
+
+## 3. Functions & Functional Programming
+Moving away from "scripting" toward reusable code.
+
+- Defining Functions: def, arguments (*args, **kwargs), and return values.
+
+- Scope: Local vs. Global variables.
+
+## 4. Data Structures (Intermediate)
+Learning how to organize and store data efficiently.
+
+- Lists: Ordered, mutable collections.
+
+- Tuples: Ordered, immutable collections.
+
+- Dictionaries: Key-value pairs (essential for JSON and APIs).
+
+- Sets: Unordered collections of unique elements.

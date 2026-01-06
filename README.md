@@ -37,3 +37,11 @@ Learning how to organize and store data efficiently.
 - Dictionaries: Key-value pairs (essential for JSON and APIs).
 
 - Sets: Unordered collections of unique elements.
+
+## 5. File Handling & Modules
+
+- File I/O: Reading and writing .txt and .csv files.
+
+- Modules & Packages: Using import, pip.
+
+- Exception Handling: Using try, except, finally to prevent crashes.
